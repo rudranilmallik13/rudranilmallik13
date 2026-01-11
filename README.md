@@ -1,7 +1,7 @@
 ## Hi 👋 I'm Rudranil Mallik
 
 <p align="left">
-🎓 A passionate Computer Science and Engineering student at the <strong>University of Engineering and Management, Kolkata</strong>, who loves learning about innovation and technology.<br/>
+🎓 A passionate Computer Science and Engineering student at the <strong>Institute of Engineering and Management, Kolkata</strong>, who loves learning about innovation and technology.<br/>
 💡 Currently exploring <strong>Machine Learning</strong>, <strong>Data Science</strong>, and diving into the world of <strong>Neural Networks</strong> to build intelligent, real-world applications.<br/>
 🧠 I am also highly interested in <strong>Data Structures and Algorithms (DSA)</strong> and enjoy solving <strong>Competitive Programming (CP)</strong> challenges to sharpen my problem-solving skills.<br/>
 🌱 I am deeply enthusiastic about <strong>Open Source</strong> and have actively participated in hacathons like :
